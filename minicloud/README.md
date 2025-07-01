@@ -22,7 +22,7 @@ go get golang.org/x/net/context
 Put the package under your project folder and add the following in import:
 
 ```go
-import minicloud "github.com/GIT_USER_ID/GIT_REPO_ID"
+import minicloud "github.com/odeeka/minicloud-openapi-client-go"
 ```
 
 To use a proxy, set the environment variable `HTTP_PROXY`:
